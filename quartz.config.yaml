@@ -6,7 +6,7 @@ configuration:
   enablePopovers: true
   analytics: null
   locale: zh-CN
-  baseUrl: koala-public-blog
+  baseUrl: fxl335993799.github.io/KoalaBlog
   ignorePatterns:
     - "**/private/**"
     - "**/templates/**"
@@ -156,7 +156,7 @@ plugins:
   - source: "@quartz-community/og-image"
     enabled: false
   - source: "@quartz-community/cname"
-    enabled: true
+    enabled: false
   - source: "@quartz-community/canvas-page"
     enabled: true
   - source: "@quartz-community/content-page"
